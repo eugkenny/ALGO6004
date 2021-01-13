@@ -3,7 +3,7 @@ title: ALGO 6004
 subtitle: Fundamentals of Data Structures & Algorithms
 description: |
     This module focuses on the fundamental structures used to store data and the standard algorithms for manipulating them. Fundamental data structures include lists, stacks, queues, trees, heaps and hash tables. Standard algorithms include searching, sorting, and traversals. Along with implementation details, students will learn to analyze the time and space efficiency of algorithms and how to select appropriate data structures and algorithms for a specific application. In homework, labs, and programming projects, students will implement their own data structures and make use of existing libraries to solve a variety of computational problems. 
-baseurl: "/ALGO6003" # the subpath of your site, e.g. /blog/
+baseurl: "/ALGO6004" # the subpath of your site, e.g. /blog/
 url: "https://github.com/eugkenny/ALGO6004" # the base hostname & protocol for your site
 syllabus: "/syllabus"
 githublink: "https://github.com/eugkenny/ALGO6004"
