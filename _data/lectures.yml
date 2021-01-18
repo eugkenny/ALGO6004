@@ -8,3 +8,9 @@
   dirname: lectures
   tldr: "Hash functions, separate chaining, linear probing"
 
+- title: "Demo: Linear Probing"
+  filename: 12 - DemoLinearProbingHashTable.mov
+  dirname: lectures
+  tldr: Linear Probing
+
+
