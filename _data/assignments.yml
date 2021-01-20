@@ -3,6 +3,15 @@
 #  dirname: assignments
 #  tldr: "Percolation Systems, Union-Find"
 
+- title: "Programming Assignment 1 - Open Addressing in Hash Tables"
+  filename: Assignment 1 - Open Addressing in Hash Tables.pdf
+  dirname: assignments
+  tldr: "Linear probing, quadratic probing, double hashing"
+
+- title: "Programming Assignment 1 - Starter Code"
+  filename: Assignment 1 Starter Code.zip
+  dirname: assignments
+  tldr: ""
 
 
 
