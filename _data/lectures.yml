@@ -13,4 +13,17 @@
   dirname: lectures
   tldr: Linear Probing
 
+- title: "Lecture 2a: Strings"
+  filename: 13a - Strings.pdf
+  dirname: lectures
+  tldr: "Strings in Java"
 
+- title: "Lecture 2b: Substring Search"
+  filename: 13b - Substring Search.pdf
+  dirname: lectures
+  tldr: "Brute force, Knuth-Morris-Pratt, Boyer-Moore"
+
+- title: "Demo: Knuth-Morris-Pratt"
+  filename: 13b - Demo KnuthMorrisPratt.mov
+  dirname: lectures
+  tldr: Knuth-Morris-Pratt
