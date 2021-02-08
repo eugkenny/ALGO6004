@@ -27,3 +27,13 @@
   filename: 13b - Demo KnuthMorrisPratt.mov
   dirname: lectures
   tldr: Knuth-Morris-Pratt
+
+- title: "Lecture 3: Regular Expressions"
+  filename: 14 - Regular Expressions.pdf
+  dirname: lectures
+  tldr: "Brute force, Knuth-Morris-Pratt, Boyer-Moore"
+
+- title: "Demo: NFA Simulation"
+  filename: 14 - Demo NFA Simulation.mov
+  dirname: lectures
+  tldr: NFA Simulation
