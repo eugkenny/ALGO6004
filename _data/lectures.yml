@@ -42,3 +42,10 @@
   filename: 14 - Demo NFA Construction.mov
   dirname: lectures
   tldr: NFA Construction
+
+- title: "Lecture 4: Data Compression"
+  filename: 15 - Data Compression.pdf
+  dirname: lectures
+  tldr: "Run-length coding, huffman compression"
+
+
