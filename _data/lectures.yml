@@ -13,6 +13,11 @@
   dirname: lectures
   tldr: Linear Probing
 
+- title: "STRING ALGORITHMS"
+  filename: 
+  dirname: 
+  tldr:
+
 - title: "Lecture 2a: Strings"
   filename: 13a - Strings.pdf
   dirname: lectures
