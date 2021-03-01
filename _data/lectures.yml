@@ -48,4 +48,18 @@
   dirname: lectures
   tldr: "Run-length coding, huffman compression"
 
+- title: "Demo: Huffman Compression"
+  filename: 15 - Demo Huffman.mov
+  dirname: lectures
+  tldr: Huffman compression
+
+- title: "Lecture 5: Convex Hull"
+  filename: 16a - Convex Hull.pdf
+  dirname: lectures
+  tldr: "Convex hull, Graham scan"
+
+- title: "Demo: Graham Scan"
+  filename: 16a - Demo Graham Scan.pdf
+  dirname: lectures
+  tldr: Graham scan
 
