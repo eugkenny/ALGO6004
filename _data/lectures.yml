@@ -68,3 +68,19 @@
   dirname: lectures
   tldr: Graham scan
 
+- title: "Lecture 6: Geometric Search"
+  filename: 16b - Geometric Search.pdf
+  dirname: lectures
+  tldr: "Geometric Applications of BST's"
+
+- title: "Demo: Interval Search Trees"
+  filename: 16b - Demo Interval Search Tree.mov
+  dirname: lectures
+  tldr: Interval Search Tree
+
+- title: "Demo: Kd Trees"
+  filename: 16b - Demo Kd Tree.mov
+  dirname: lectures
+  tldr: Kd Tree
+
+
